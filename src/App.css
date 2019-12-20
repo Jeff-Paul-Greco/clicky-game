@@ -1,9 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap");
+
 * {
   box-sizing: border-box;
 }
 
 html, #root {
   height: 100%;
+  font-family: 'Source Code Pro', monospace;
 }
 
 body {

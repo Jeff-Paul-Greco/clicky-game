@@ -30,7 +30,10 @@ class App extends Component {
 
     });
 
-    alert(`Game Over \nscore: ${this.state.score}`);
+    alert(`                                               Game Over
+                                                Try Again! 
+                                                         
+                                                  Score: ${this.state.score}`);
 
     this.setState({ score: 0 });
 

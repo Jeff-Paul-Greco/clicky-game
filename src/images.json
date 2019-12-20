@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Mario",
+        "image": "./mario.png",
+        "count": 0
+    },
+    {
+        "id": 2,
+        "name": "Luigi",
+        "image": "./luigi.png",
+        "count": 0
+    },
+    {
+        "id": 3,
+        "name": "Peach",
+        "image": "./peach.png",
+        "count": 0
+    },
+    {
+        "id": 4,
+        "name": "Bowser",
+        "image": "./bowser.png",
+        "count": 0
+    },
+    {
+        "id": 5,
+        "name": "Daisey",
+        "image": "./daisey.png",
+        "count": 0
+    },
+    {
+        "id": 6,
+        "name": "Yoshi",
+        "image": "./yoshi.png",
+        "count": 0
+    },
+    {
+        "id": 7,
+        "name": "Warrio",
+        "image": "./wario.png",
+        "count": 0
+    },
+    {
+        "id": 8,
+        "name": "Hammer Bro",
+        "image": "./hammer-bro.png",
+        "count": 0
+    },
+    {
+        "id": 9,
+        "name": "Koopa",
+        "image": "./koopa.png",
+        "count": 0
+    },
+    {
+        "id": 10,
+        "name": "Shy Guy",
+        "image": "./shy-guy.png",
+        "count": 0
+    },
+    {
+        "id": 11,
+        "name": "Waluigi",
+        "image": "./waluigi.png",
+        "count": 0
+    },
+    {
+        "id": 12,
+        "name": "Rosaslina",
+        "image": "./rosalina.png",
+        "count": 0
+    },
+    {
+        "id": 13,
+        "name": "Boo",
+        "image": "./boo.png",
+        "count": 0
+    },
+    {
+        "id": 14,
+        "name": "Donkey Kong",
+        "image": "./donkey-kong.png",
+        "count": 0
+    },
+    {
+        "id": 15,
+        "name": "Diddy Kong",
+        "image": "./diddy.png",
+        "count": 0
+    },
+    {
+        "id": 16,
+        "name": "Bowser Jr.",
+        "image": "./bowser-jr.png",
+        "count": 0
+    }
+]

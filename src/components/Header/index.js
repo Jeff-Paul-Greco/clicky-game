@@ -4,18 +4,18 @@ import "./style.css";
 
 const Header = props => (
 
-  <div className="header">
+    <div className="header">
 
-    <div className="title">{props.children}</div>
+        <div className="title">{props.children}</div>
 
-    <div className="score">
+        <div className="score">
 
-      Score: {props.score} 
-      High Score: {props.highscore}
+            Score: {props.score}
+            High Score: {props.highscore}
+
+        </div>
 
     </div>
-
-  </div>
 
 );
 

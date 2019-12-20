@@ -88,11 +88,5 @@
         "name": "Diddy Kong",
         "image": "./diddy.png",
         "count": 0
-    },
-    {
-        "id": 16,
-        "name": "Bowser Jr.",
-        "image": "./bowser-jr.png",
-        "count": 0
     }
 ]

@@ -1,0 +1,18 @@
+
+img {
+    width: 200px;
+    height: 200px;
+    padding: 3px;
+}
+
+.card {
+    position: relative;
+}
+
+.card > .imgs {
+    float: right;
+}
+
+.card > .imgs:first-child {
+    float: left;
+}
